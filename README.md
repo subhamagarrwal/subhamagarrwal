@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 [![An image of @subhamagarrwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhamagarrwal)](https://holopin.io/@subhamagarrwal)
+
+Im Subham Agarwal, currently a pre-final year student.I am currently Learning Web Development and ML.
 <!--
 **subhamagarrwal/subhamagarrwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
